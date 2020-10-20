@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$USER_HOME$/.rustup/toolchains/stable-x86_64-pc-windows-msvc/lib/rustlib/src/rust/library/rustc-std-workspace-alloc/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce278daf-0f6e-482e-8af7-6a7486bb4bd6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="0qrof5y2" />
+  </component>
+  <component name="ProjectId" id="1j8TW9xtQEXk7T825WeFPsGTQYL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Rust" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.rustup/toolchains/stable-x86_64-pc-windows-msvc/lib/rustlib/src/rust/library/rustc-std-workspace-alloc/Cargo.toml" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager" selected="Cargo.Run">
+    <configuration name="Run (1)" type="CargoCommandRunConfiguration" factoryName="Cargo Command" nameIsGenerated="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command" nameIsGenerated="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$USER_HOME$/.rustup/toolchains/stable-x86_64-pc-windows-msvc/lib/rustlib/src/rust/library/rustc-std-workspace-alloc" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cargo.Run (1)" />
+      <item itemvalue="Cargo.Run" />
+    </list>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce278daf-0f6e-482e-8af7-6a7486bb4bd6" name="Default Changelist" comment="" />
+      <created>1603184747837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603184747837</updated>
+      <workItem from="1603184748864" duration="299000" />
+      <workItem from="1603185054781" duration="248000" />
+      <workItem from="1603185310647" duration="65000" />
+      <workItem from="1603185391030" duration="98000" />
+      <workItem from="1603189187890" duration="299000" />
+      <workItem from="1603189514636" duration="782000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="806" y="238" width="1089" height="835" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603190195344">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="806" y="238" width="1089" height="835" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1440.-1109.1152.2048/0.0.2048.1152@0.0.2048.1152" timestamp="1603190195344" />
+    <state x="1076" y="299" key="EnvironmentVariablesDialog" timestamp="1603189308119">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="1076" y="299" key="EnvironmentVariablesDialog/-1440.-1109.1152.2048/0.0.2048.1152@0.0.2048.1152" timestamp="1603189308119" />
+    <state x="805" y="331" key="FileChooserDialogImpl" timestamp="1603190276725">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="805" y="331" key="FileChooserDialogImpl/-1440.-1109.1152.2048/0.0.2048.1152@0.0.2048.1152" timestamp="1603190276725" />
+    <state width="2005" height="318" key="GridCell.Tab.0.bottom" timestamp="1603190296874">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="318" key="GridCell.Tab.0.bottom/-1440.-1109.1152.2048/0.0.2048.1152@0.0.2048.1152" timestamp="1603190296874" />
+    <state width="2005" height="318" key="GridCell.Tab.0.center" timestamp="1603190296874">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="318" key="GridCell.Tab.0.center/-1440.-1109.1152.2048/0.0.2048.1152@0.0.2048.1152" timestamp="1603190296874" />
+    <state width="2005" height="318" key="GridCell.Tab.0.left" timestamp="1603190296874">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="318" key="GridCell.Tab.0.left/-1440.-1109.1152.2048/0.0.2048.1152@0.0.2048.1152" timestamp="1603190296874" />
+    <state width="2005" height="318" key="GridCell.Tab.0.right" timestamp="1603190296874">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2005" height="318" key="GridCell.Tab.0.right/-1440.-1109.1152.2048/0.0.2048.1152@0.0.2048.1152" timestamp="1603190296874" />
+    <state x="526" y="221" key="SettingsEditor" timestamp="1603185044580">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="526" y="221" key="SettingsEditor/-1440.-1109.1152.2048/0.0.2048.1152@0.0.2048.1152" timestamp="1603185044580" />
+  </component>
+</project>
