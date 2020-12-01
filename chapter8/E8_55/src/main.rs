@@ -9,7 +9,7 @@ fn merge_chain<'a>(
     map1:HashMap<&'a str,&'a str>,
     map2:HashMap<&'a str,&'a str>
 )->HashMap<&'a str,&'a str>{
-    map1.into_iter().chain(map2).collect();
+    map1.into_iter().chain(map2).collect()
 }
 fn merge_by_ref<'a>(
     map:&mut HashMap<&'a str,&'a str>,
