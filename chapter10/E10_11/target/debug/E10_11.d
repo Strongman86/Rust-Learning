@@ -1,1 +1,1 @@
-E:\Git\Rust-Learning\chapter10\E10_11\target\debug\E10_11.exe: E:\Git\Rust-Learning\chapter10\E10_11\src\main.rs
+E:\Git\Rust-Learning\chapter10\E10_11\target\debug\E10_11.exe: E:\Git\Rust-Learning\chapter10\E10_11\src\main.rs E:\Git\Rust-Learning\chapter10\E10_11\src\read_func.rs E:\Git\Rust-Learning\chapter10\E10_11\src\static_kv.rs
