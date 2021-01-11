@@ -1,0 +1,11 @@
+E:\Git\Rust-Learning\chapter10\csv_challenge\target\debug\deps\unicode_segmentation-5340a92a8ac34d65.rmeta: C:\Users\Pan\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.7.1\src\lib.rs C:\Users\Pan\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.7.1\src\grapheme.rs C:\Users\Pan\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.7.1\src\tables.rs C:\Users\Pan\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.7.1\src\word.rs C:\Users\Pan\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.7.1\src\sentence.rs
+
+E:\Git\Rust-Learning\chapter10\csv_challenge\target\debug\deps\libunicode_segmentation-5340a92a8ac34d65.rlib: C:\Users\Pan\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.7.1\src\lib.rs C:\Users\Pan\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.7.1\src\grapheme.rs C:\Users\Pan\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.7.1\src\tables.rs C:\Users\Pan\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.7.1\src\word.rs C:\Users\Pan\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.7.1\src\sentence.rs
+
+E:\Git\Rust-Learning\chapter10\csv_challenge\target\debug\deps\unicode_segmentation-5340a92a8ac34d65.d: C:\Users\Pan\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.7.1\src\lib.rs C:\Users\Pan\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.7.1\src\grapheme.rs C:\Users\Pan\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.7.1\src\tables.rs C:\Users\Pan\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.7.1\src\word.rs C:\Users\Pan\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.7.1\src\sentence.rs
+
+C:\Users\Pan\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.7.1\src\lib.rs:
+C:\Users\Pan\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.7.1\src\grapheme.rs:
+C:\Users\Pan\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.7.1\src\tables.rs:
+C:\Users\Pan\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.7.1\src\word.rs:
+C:\Users\Pan\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.7.1\src\sentence.rs:
